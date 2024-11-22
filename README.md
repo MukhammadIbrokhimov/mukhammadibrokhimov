@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-H7llxoUnid1u27TkaH" width="250"/>
+  <h2>Hi there, I'm Adriano! 👋</h2>
+  <p>Welcome to my GitHub profile</p>
+</div>
+
 ### Hi there 👋
 
 # Mukhammad Ibrokhimov
