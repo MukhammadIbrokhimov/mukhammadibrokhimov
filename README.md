@@ -64,7 +64,7 @@ I'm a Certified Software Engineer with over 2 years of hands-on experience in Py
 
 <img align="left" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
-<img align="left" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/cpp-F38020?style=for-the-badge&logo=cpp&logoColor=white" />
 
 <img align="left" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
