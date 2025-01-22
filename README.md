@@ -58,7 +58,7 @@ I'm a Certified Software Engineer with over 2 years of hands-on experience in Py
 
 
 
-<img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=docker&badgeColor=010101" />
+<img align="left" src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&badgeColor=010101" />
 
 
 
