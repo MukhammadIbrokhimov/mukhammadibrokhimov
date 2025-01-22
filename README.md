@@ -53,13 +53,12 @@ I'm a Certified Software Engineer with over 2 years of hands-on experience in Py
 
 <img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 
-<img align="left" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 
 <img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 
 
 
-<img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+<img align="left" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=docker&badgeColor=010101" />
 
 
 
