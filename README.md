@@ -35,8 +35,8 @@ I'm a Certified Software Engineer with over 2 years of hands-on experience in Py
 
 ### 📈 GitHub Stats
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mukhammadsiddiq&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhammadsiddiq&layout=compact&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MukhammadIbrokhimov&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukhammadIbrokhimov&layout=compact&theme=radical" />
 
 ---
 
