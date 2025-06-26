@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="100%" height="300"/>
-</div>
-
 ### Hi there 👋
 
 # Mukhammad Ibrokhimov
