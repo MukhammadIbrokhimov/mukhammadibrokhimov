@@ -13,16 +13,16 @@
 
 ## 👋 Hi there!
 
-I'm a Certified Software Engineer with over 2 years of hands-on experience in Python/C & C++ development. Currently, I'm working remotely at Vivid Money. My expertise includes building scalable web applications, optimizing system performance, and fostering learning through mentorship. Passionate about continuous improvement and innovation, I'm eager to apply my skills in impactful projects.
+I'm a Certified Software Engineer with over 2 years of hands-on experience in Python/C & C++ development. Currently, I'm working at Vivid Money. My expertise includes building scalable web applications, optimizing system performance, and fostering learning through mentorship. Passionate about continuous improvement and innovation, I'm eager to apply my skills in impactful projects.
 
 ---
 
 ### 🛠️ Skills
 
 - **Languages & Frameworks**: C and C++, Python
-- **Database**: PostgreSQL, MySQL, SQLite3, MongoDB
-- **Tools**: LLM, AWS, Docker, Git, Jira, Figma, N8N
-- **Operating Systems**: macOS, Linux (Ubuntu)
+- **Database**: PostgreSQL, MySQL, SQLite3, MongoDB, MariaDB
+- **Tools**: AWS, Docker & Docker-Compose, Git, Figma, N8N, Nginx
+- **Operating Systems**: macOS, Linux
 - **Other Skills**: Project Management, Agile Development
 
 ---
