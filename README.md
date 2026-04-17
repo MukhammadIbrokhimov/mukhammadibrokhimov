@@ -1,69 +1,22 @@
-### Hi there 👋
-
 # Mukhammad Ibrokhimov
-**Software Engineer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukhammadibrokhimov) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibroximov)  
-📧 contact@ibrokhimov.de  
-🌐 [ibrokhimov.de](https://www.ibrokhimov.de)  
-📞 +49 176 36966368  
+Software engineer at [Vivid Money](https://vivid.money) · [42 Berlin](https://42berlin.de) alum · Berlin
 
----
+Backend and systems programming. My day job is Python on a fintech product — most of that work is internal. The public repos below are what I've built on my own, primarily in C and C++.
 
-## 👋 Hi there!
+## Selected projects
 
-I'm a Certified Software Engineer with over 2 years of hands-on experience in Python/C & C++ development. Currently, I'm working at Vivid Money. My expertise includes building scalable web applications, optimizing system performance, and fostering learning through mentorship. Passionate about continuous improvement and innovation, I'm eager to apply my skills in impactful projects.
+- **[WebServ](https://github.com/MukhammadIbrokhimov/WebServ)** — HTTP/1.1 server in C++98. Non-blocking I/O on `poll`, CGI execution, configurable routing, no external dependencies.
+- **[Inception](https://github.com/MukhammadIbrokhimov/Inception)** — Multi-service web stack (NGINX + WordPress + MariaDB) orchestrated with Docker Compose, built from custom Alpine/Debian images with no pre-built layers.
+- **[Minishell](https://github.com/MukhammadIbrokhimov/Minishell)** — POSIX-ish shell in C: tokenizer, parser, pipes, redirections, env expansion, signals, builtins.
+- **[Cub3D](https://github.com/MukhammadIbrokhimov/Cub3D)** — Raycasting 3D engine in C inspired by Wolfenstein 3D.
 
----
+## Tools I work with
 
-### 🛠️ Skills
+Python · C · C++ · PostgreSQL · Docker · Linux · Git
 
-- **Languages & Frameworks**: C and C++, Python
-- **Database**: PostgreSQL, MySQL, SQLite3, MongoDB, MariaDB
-- **Tools**: AWS, Docker & Docker-Compose, Git, Figma, N8N, Nginx
-- **Operating Systems**: macOS, Linux
-- **Other Skills**: Project Management, Agile Development
+## Contact
 
----
-
-### 📈 GitHub Stats
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MukhammadIbrokhimov&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukhammadIbrokhimov&layout=compact&theme=radical" />
-
----
-
-
-\
-&nbsp;
-\
-&nbsp;
-
-
-<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<img align="left" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-
-<img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-
-
-<img align="left" src="https://img.shields.io/badge/linux-%23404d59.svg?style=for-the-badge&logo=linux&logoColor=%2361DAFB" />
-
-
-
-<img align="left" src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&badgeColor=010101" />
-
-
-
-<img align="left" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-<img align="left" src="https://img.shields.io/badge/cpp-F38020?style=for-the-badge&logo=cpp&logoColor=white" />
-
-<img align="left" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-<img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-<img align="left" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
-
-<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+- Email — contact@ibrokhimov.de
+- Web — [ibrokhimov.de](https://www.ibrokhimov.de)
+- LinkedIn — [in/ibroximov](https://www.linkedin.com/in/ibroximov)
