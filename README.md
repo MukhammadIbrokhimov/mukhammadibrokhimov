@@ -18,5 +18,4 @@ Python · C · C++ · PostgreSQL · Docker · Linux · Git
 ## Contact
 
 - Email — contact@ibrokhimov.de
-- Web — [ibrokhimov.de](https://www.ibrokhimov.de)
 - LinkedIn — [in/ibroximov](https://www.linkedin.com/in/ibroximov)
